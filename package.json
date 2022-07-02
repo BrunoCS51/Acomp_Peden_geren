@@ -1,0 +1,9 @@
+{
+  "name": "tela_acompanhamento",
+  "version": "0.0.0",
+  "description": "Tela_Acompanhamento",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
